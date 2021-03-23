@@ -1,1 +1,1 @@
-## Familiarization with MATLAB Digital Signal Processing
+## Familiarization with Digital Signal Processing
